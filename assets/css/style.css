@@ -1330,3 +1330,6 @@ footer .credits a {
 .realt li {
   font-size: 0.8em;
 }
+.realt {
+  padding-left: 10px;
+}
